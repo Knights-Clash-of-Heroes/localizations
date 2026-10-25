@@ -1,0 +1,6 @@
+*.js linguist-generated=true
+*.d.ts linguist-generated=true
+*.json linguist-detectable=true
+*.xml linguist-detectable=true
+*.md linguist-detectable=true
+*.md linguist-language=Markdown

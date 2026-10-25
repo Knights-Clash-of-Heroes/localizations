@@ -23,7 +23,7 @@ O que está incompleto no `Portuguese`:
 
 ## Estrutura do repositório
 
-- **`lang/Portuguese.json`**: a localização, na estrutura exata que o cliente lê: `{ "<Idioma>": { "<#CHAVE>": ["texto", "plural/texto alternativo"] } }`.
+- **`lang/Portuguese.json`**: o arquivo original, byte a byte (JSON, como o jogo o distribuía), na estrutura exata que o cliente lê: `{ "<Idioma>": { "<#CHAVE>": ["texto", "plural/texto alternativo"] } }`.
 - **`missing-keys.json`**: chaves referenciadas pelo jogo, mas ausentes do arquivo.
 - **`untranslated-keys.json`**: entradas que ainda têm texto sem tradução (russo).
 - **`scripts/check.mjs`**: verificação básica (`npm run check`): todo valor é um array não vazio de strings não vazias, não há chaves duplicadas ignorando maiúsculas e minúsculas, e nada em `missing-keys.json` já está traduzido.

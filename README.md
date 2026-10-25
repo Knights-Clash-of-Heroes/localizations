@@ -23,7 +23,7 @@ What is incomplete in `Portuguese`:
 
 ## Repository structure
 
-- **`lang/Portuguese.json`**: the localization, in the exact structure the client reads: `{ "<Locale>": { "<#KEY>": ["text", "plural/alternate text"] } }`.
+- **`lang/Portuguese.json`**: the original file, byte for byte (JSON, as the game shipped it), in the exact structure the client reads: `{ "<Locale>": { "<#KEY>": ["text", "plural/alternate text"] } }`.
 - **`missing-keys.json`**: keys referenced by the game but absent from the file.
 - **`untranslated-keys.json`**: entries that still contain untranslated (Russian) text.
 - **`scripts/check.mjs`**: sanity check (`npm run check`): every value is a non-empty array of non-empty strings, there are no case-insensitive duplicate keys, and nothing in `missing-keys.json` is already translated.
