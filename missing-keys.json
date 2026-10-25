@@ -1,0 +1,176 @@
+{
+  "keys": {
+    "#ABILITY_CHAIN_LIGHTNING": [
+      "db"
+    ],
+    "#ABILITY_MEMO_CONTROL": [
+      "db"
+    ],
+    "#ACTION_TT_BOMBARDER": [
+      "client"
+    ],
+    "#ACTION_TT_ELF": [
+      "client"
+    ],
+    "#ACTION_TT_ORC": [
+      "client"
+    ],
+    "#ACTION_TT_WERESAMURAI": [
+      "client"
+    ],
+    "#AURA_ABSORB": [
+      "db"
+    ],
+    "#BUFF_DOC_HEAL": [
+      "db"
+    ],
+    "#BUFF_EXPLODE_BARREL": [
+      "db"
+    ],
+    "#BUFF_ICED_DESC": [
+      "db"
+    ],
+    "#BUFF_MIND_CONTROL": [
+      "db"
+    ],
+    "#BUFF_XPLORE_DAMAGE": [
+      "db"
+    ],
+    "#BUFF_XPLORE_HEALTH": [
+      "db"
+    ],
+    "#BUFF_XPLORE_INI": [
+      "db"
+    ],
+    "#BUILDING_TOWER_OLD_10": [
+      "db"
+    ],
+    "#BUILDING_TOWER_OLD_11": [
+      "db"
+    ],
+    "#BUILDING_TOWER_OLD_12": [
+      "db"
+    ],
+    "#BUILDING_TOWER_OLD_2": [
+      "db"
+    ],
+    "#BUILDING_TOWER_OLD_3": [
+      "db"
+    ],
+    "#BUILDING_TOWER_OLD_4": [
+      "db"
+    ],
+    "#BUILDING_TOWER_OLD_5": [
+      "db"
+    ],
+    "#BUILDING_TOWER_OLD_6": [
+      "db"
+    ],
+    "#BUILDING_TOWER_OLD_7": [
+      "db"
+    ],
+    "#BUILDING_TOWER_OLD_8": [
+      "db"
+    ],
+    "#BUILDING_TOWER_OLD_9": [
+      "db"
+    ],
+    "#CASH_HELP_UNKNOWN": [
+      "client"
+    ],
+    "#DELECT_FRIEND_DEFAULT": [
+      "client"
+    ],
+    "#EFFECT_DOC_ATTACK": [
+      "db"
+    ],
+    "#EFFECT_MEMO_MOVE": [
+      "db"
+    ],
+    "#FARM_cucumber": [
+      "db"
+    ],
+    "#GO_TO_QUEST": [
+      "client"
+    ],
+    "#GW_AWARD": [
+      "client"
+    ],
+    "#INCORRECT_SERVER_RESPONSE": [
+      "client"
+    ],
+    "#INVALID_SIGNATURE": [
+      "client"
+    ],
+    "#ITEM_CASHBOX": [
+      "db"
+    ],
+    "#ITEM_EI_F_dreamscape": [
+      "db"
+    ],
+    "#ITEM_HELM": [
+      "db"
+    ],
+    "#ITEM_USE_REPAIR": [
+      "client"
+    ],
+    "#ITEM_waterskin": [
+      "db"
+    ],
+    "#MANAGE": [
+      "client"
+    ],
+    "#MISSION_ARENA": [
+      "db"
+    ],
+    "#MISSION_DREAMSCAPE_5": [
+      "db"
+    ],
+    "#MISSION_MINI_SPELLBOOK": [
+      "db"
+    ],
+    "#MISSION_TUTORIAL": [
+      "db"
+    ],
+    "#NEWS_ATTACK_WIN": [
+      "client"
+    ],
+    "#RESPONSE_INCORRECT_SIGNATURE": [
+      "client"
+    ],
+    "#SPECIAL_FIRE": [
+      "db"
+    ],
+    "#SPELL_POWER_ACT": [
+      "db"
+    ],
+    "#TILE_TILE": [
+      "db"
+    ],
+    "#TWO_CHESTS_CHANCE_1": [
+      "client"
+    ],
+    "#TWO_CHESTS_CHANCE_2": [
+      "client"
+    ],
+    "#UNIT_ARCMAGE": [
+      "db"
+    ],
+    "#UNIT_MEMO": [
+      "db"
+    ],
+    "#UNIT_SPECIAL_DAEMON_DMG": [
+      "db"
+    ],
+    "#UNIT_TEST": [
+      "db"
+    ],
+    "#USER_BANNED": [
+      "client"
+    ],
+    "#XPLORE_HERO_LEVEL": [
+      "db"
+    ]
+  },
+  "unmatched_prefixes": {}
+}

@@ -1,0 +1,12 @@
+{
+    "name": "@kcoh/localizations",
+    "version": "0.1.0",
+    "private": true,
+    "type": "module",
+    "description": "Recovered localization files for Knights: Clash of Heroes",
+    "scripts": {
+        "check": "node scripts/check.mjs"
+    },
+    "author": "Marcuth",
+    "license": "MIT"
+}
